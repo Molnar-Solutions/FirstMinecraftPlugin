@@ -2,3 +2,7 @@ name: MyFirstPlugin
 version: '0.0.1'
 main: hu.danielmoln.myFirstPlugin.MyFirstPlugin
 api-version: '1.21'
+commands:
+  heal:
+    description: Heal the player
+    usage: heal <player name>
