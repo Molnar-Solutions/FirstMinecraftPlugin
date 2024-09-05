@@ -7,7 +7,7 @@ public final class MyFirstPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        System.out.println("Woohoo! My plugin has started!!");
     }
 
     @Override
