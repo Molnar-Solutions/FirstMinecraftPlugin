@@ -6,3 +6,5 @@ commands:
   heal:
     description: Heal the player
     usage: heal <player name>
+  config:
+    description: configuration management
